@@ -1,0 +1,14 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+http://stg-portal.enerlytics.in/,15,14238,12513,15291,891.13,0.00%,.9,2976.89,3280006.2
+http://stg-portal.enerlytics.in/i18n/app-locale_en.json,15,280,72,1031,324.02,0.00%,6.4,5.19,831.2
+http://stg-api.enerlytics.in/v1/login,15,20704,826,56046,15932.68,0.00%,.3,0.17,636.0
+http://stg-portal.enerlytics.in/app/home/views/sidebar.html,15,373,77,874,273.88,0.00%,.3,1.10,4124.5
+http://stg-api.enerlytics.in/v1/userbyid,30,5841,53,57821,12918.72,6.67%,.3,0.17,512.1
+http://stg-api.enerlytics.in/v1/allsites,30,6869,44,65808,17438.39,13.33%,.2,1.19,5126.8
+http://stg-api.enerlytics.in/v1/globaldashboard/sitestatus,30,11895,46,84737,18733.84,10.00%,.2,1.37,7659.2
+http://stg-api.enerlytics.in/v1/globaldashboard/energyprofile,30,26368,43,103779,31917.02,50.00%,.2,0.09,496.7
+http://stg-api.enerlytics.in/v1/globaldashboard/yeildtilldate,30,7569,39,37366,14897.08,50.00%,.2,0.08,456.7
+http://stg-api.enerlytics.in/v1/globaldashboard/environment-indicator,30,128,40,249,65.12,50.00%,.2,0.09,525.5
+http://stg-api.enerlytics.in/v1/globaldashboard/sites/0/10,30,13934,45,75621,20627.94,50.00%,.2,0.10,585.5
+Test,15,180810,179866,181858,566.52,100.00%,.1,266.85,3316323.0
+TOTAL,285,19032,39,181858,42309.59,29.47%,1.6,533.69,349086.6
